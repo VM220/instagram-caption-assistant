@@ -1,0 +1,17 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+
+# Ignore environment variables
+.env
+
+# Ignore image uploads
+*.jpg
+*.jpeg
+*.png
+
+# MacOS
+.DS_Store
