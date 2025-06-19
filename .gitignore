@@ -13,5 +13,10 @@ venv/
 *.jpeg
 *.png
 
+#Ignore images file inside assets
+assets/*.jpg
+assets/*.jpeg
+assets/*.png
+
 # MacOS
 .DS_Store
